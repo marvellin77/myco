@@ -1,29 +1,39 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 1
+http://cdnrrs.gx.chinamobile.com/TVOD/77777777/224/3221225674/index.m3u8?$广西cdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 2
-http://203.77.246.50:5000/udp/239.1.2.166:5000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 17
-http://203.77.246.50:5000/udp/239.1.2.168:5000
+http://cdnrrs.gx.chinamobile.com/TVOD/77777777/224/3221225676/index.m3u8?$广西cdn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 3
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226308/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 4
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226303/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 5
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226305/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 6
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 7
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 8
+http://cdnrrs.gx.chinamobile.com/TVOD/77777777/224/3221225630/index.m3u8?$广西cdn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 9
+http://cdnrrs.gx.chinamobile.com/TVOD/77777777/224/3221225633/index.m3u8?$广西cdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 10
-http://203.77.246.50:5000/udp/239.1.2.170:5000
+http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226189/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 11
-http://203.77.246.50:5000/udp/239.1.2.172:5000
+http://cdnrrs.gx.chinamobile.com/TVOD/77777777/224/3221225750/index.m3u8?$广西cdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 12
-http://203.77.246.50:5000/udp/239.1.2.174:5000
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 13
-http://203.77.246.50:5000/udp/239.1.2.178:5000
+http://cdnrrs.gx.chinamobile.com/TVOD/77777777/224/3221225787/index.m3u8?$广西cdn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 14
-http://203.77.246.50:5000/udp/239.1.2.180:5000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TV China
-http://203.77.246.50:5000/udp/239.1.2.184:5000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Dragon TV
-http://203.77.246.50:5000/udp/239.1.2.186:5000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TV China
-http://203.77.246.50:5000/udp/239.1.2.190:5000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TV China
-http://203.77.246.50:5000/udp/239.1.2.194:5000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TV China
+http://cdnrrs.gx.chinamobile.com/TVOD/77777777/224/3221225673/index.m3u8?$广西cdn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 15
+http://cdnrrs.gx.chinamobile.com/TVOD/77777777/224/3221225830/index.m3u8?$广西cdn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CCTV 14
 http://203.77.246.50:5000/udp/239.1.2.196:5000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TV Arab
-http://203.77.246.50:5000/udp/239.1.2.200:5000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TV China
-http://203.77.246.50:5000/udp/239.1.2.202:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CGTN
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CETV 1
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225776/index.m3u8?$广西cdn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",CETV 2
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225881/index.m3u8?$广西cdn
